@@ -25,6 +25,8 @@ Maintained by the team at [VeloApply](https://veloapply.com). Contributions are 
 - [Novoresume](https://novoresume.com) - Structured resume builder with section by section AI writing help.
 - [Zety](https://zety.com) - Template focused resume builder with a wide range of designs.
 - [Reactive Resume](https://rxresu.me) - Free, open source resume builder you can self host.
+- [PasteZap ATS CV Builder](https://pastezap.com/tools/ats-cv-builder/) - Free browser-based resume builder with ATS-friendly layouts and PDF export.
+
 
 ## ATS Optimization and Resume Scanners
 
